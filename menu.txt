@@ -2,12 +2,12 @@ CARTE DU RESTAURANT
 ===================
 
 Entrees:
-- Soupe a l'oignon .......... 7 EUR
-- Salade de chevre chaud .... 9 EUR
+- Veloute de potiron ........ 8 EUR
+- Foie gras maison .......... 14 EUR
 
 Plats:
-- Boeuf bourguignon ........ 18 EUR
-- Filet de bar .............. 21 EUR
+- Pot-au-feu ............... 17 EUR
+- Filet de bar aux truffes .. 29 EUR
 
 Desserts:
-- Tarte tatin ............... 8 EUR
+- Tarte tatin flambee ....... 11 EUR

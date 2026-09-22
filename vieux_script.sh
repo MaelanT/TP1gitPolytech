@@ -1,4 +1,5 @@
 #!/bin/sh
-# Ancien script de sauvegarde, a remplacer un jour
-tar czf backup.tar.gz menu.txt config.ini
-echo "sauvegarde terminee"
+# Script de sauvegarde ameliore : archive horodatee
+DATE=$(date +%Y%m%d)
+tar czf "backup-$DATE.tar.gz" menu.txt config.ini src/
+echo "sauvegarde $DATE terminee"

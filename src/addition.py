@@ -1,10 +1,8 @@
 def total(prix):
-    """Additionne une liste de prix."""
-    somme = 0
-    for p in prix:
-        somme += p
-    return somme
+    """Additionne une liste de prix, TVA 20% incluse."""
+    somme = sum(prix)
+    return round(somme * 1.2, 2)
 
 
 if __name__ == "__main__":
-    print(total([7, 18, 8]))
+    print(total([8, 17, 11]))
