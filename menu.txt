@@ -2,12 +2,12 @@ CARTE DU RESTAURANT
 ===================
 
 Entrees:
-- Soupe a l'oignon .......... 7 EUR
-- Salade de chevre chaud .... 9 EUR
+- Gaspacho glace ............ 8 EUR
+- Melon au jambon cru ....... 10 EUR
 
 Plats:
-- Boeuf bourguignon ........ 18 EUR
-- Filet de bar .............. 21 EUR
+- Grillades du jour ........ 16 EUR
+- Filet de bar a la plancha . 23 EUR
 
 Desserts:
-- Tarte tatin ............... 8 EUR
+- Sorbet citron ............. 6 EUR
