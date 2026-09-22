@@ -1,0 +1,13 @@
+CARTE DU RESTAURANT
+===================
+
+Entrees:
+- Soupe a l'oignon .......... 7 EUR
+- Salade de chevre chaud .... 9 EUR
+
+Plats:
+- Boeuf bourguignon ........ 18 EUR
+- Filet de bar .............. 21 EUR
+
+Desserts:
+- Tarte tatin ............... 8 EUR
