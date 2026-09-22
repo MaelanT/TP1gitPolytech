@@ -8,6 +8,7 @@ Entrees:
 Plats:
 - Boeuf bourguignon ........ 18 EUR
 - Filet de bar .............. 21 EUR
+- Magret de canard .......... 25 EUR
 
 Desserts:
 - Tarte tatin ............... 8 EUR
