@@ -12,3 +12,4 @@ Plats:
 
 Desserts:
 - Tarte tatin ............... 8 EUR
+- Creme brulee .............. 7 EUR
