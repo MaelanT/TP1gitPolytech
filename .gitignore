@@ -1,0 +1,5 @@
+# archives (lourdes)
+*.tar.gz
+
+# secrets
+.env
