@@ -6,7 +6,7 @@ Entrees:
 - Salade de chevre chaud .... 9 EUR
 
 Plats:
-- Boeuf bourguignon ........ 18 EUR
+- Boeuf bourguignon ......... 18 EUR
 - Filet de bar .............. 21 EUR
 - Magret de canard .......... 25 EUR
 - Risotto aux cepes ......... 16 EUR
